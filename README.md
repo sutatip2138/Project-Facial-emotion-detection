@@ -1,4 +1,4 @@
-##Facial Emotion Detection Project
+Facial Emotion Detection Project
 
 Description
 โปรเจคนี้เป็นระบบตรวจจับอารมณ์จากใบหน้า (Facial Emotion Detection) โดยใช้เทคนิคด้าน Computer Vision และ Deep Learning
